@@ -1,0 +1,18 @@
+{
+    "name": "Plucky.Objects.Runtime",
+    "rootNamespace": "",
+    "references": [
+        "GUID:30817c1a0e6d646d99c048fc403f5979",
+        "GUID:ea34fe17e2c95ed4c8ee7c663acf9894",
+        "GUID:6d4bd7b62b2a6a54a83e5286d3c7cce0"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
